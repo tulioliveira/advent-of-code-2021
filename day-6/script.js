@@ -1,5 +1,3 @@
-const _ = require("lodash");
-
 const loadInput = async (isTest = false) => {
   const testInput = [3, 4, 3, 1, 2];
   const input = [
